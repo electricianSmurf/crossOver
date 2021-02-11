@@ -1,0 +1,9 @@
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\bin\Debug\karsiya gecme.exe.config
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\bin\Debug\karsiya gecme.exe
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\bin\Debug\karsiya gecme.pdb
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\crossOver.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\crossOver.Form1.resources
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\crossOver.Properties.Resources.resources
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\crossOver.csproj.GenerateResource.Cache
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.exe
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.pdb

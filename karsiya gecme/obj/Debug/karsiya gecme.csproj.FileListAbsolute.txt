@@ -1,0 +1,18 @@
+C:\Users\Yücel\Desktop\VStudio projects\karsiya gecme\karsiya gecme\bin\Debug\karsiya gecme.exe.config
+C:\Users\Yücel\Desktop\VStudio projects\karsiya gecme\karsiya gecme\bin\Debug\karsiya gecme.exe
+C:\Users\Yücel\Desktop\VStudio projects\karsiya gecme\karsiya gecme\bin\Debug\karsiya gecme.pdb
+C:\Users\Yücel\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.csprojResolveAssemblyReference.cache
+C:\Users\Yücel\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya_gecme.Form1.resources
+C:\Users\Yücel\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya_gecme.Properties.Resources.resources
+C:\Users\Yücel\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.csproj.GenerateResource.Cache
+C:\Users\Yücel\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.exe
+C:\Users\Yücel\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.pdb
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\bin\Debug\karsiya gecme.exe.config
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.exe
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.pdb
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\bin\Debug\karsiya gecme.exe
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\bin\Debug\karsiya gecme.pdb
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya_gecme.Form1.resources
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya_gecme.Properties.Resources.resources
+C:\Users\R\Desktop\VStudio projects\karsiya gecme\karsiya gecme\obj\Debug\karsiya gecme.csproj.GenerateResource.Cache
